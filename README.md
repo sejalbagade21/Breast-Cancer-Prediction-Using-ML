@@ -16,6 +16,9 @@ Forecast potential future land distribution using regression modeling.
 
 3-Dataset Construction
 The original dataset consisted of multiple fine-grained land categories.
+We use the EuroSAT dataset.  
+Download or view details:  
+👉 https://www.kaggle.com/datasets/apollo2506/eurosat-dataset?utm_source=chatgpt.com
 To align with sustainability-focused analysis, these were consolidated into three macro-classes:
 
 Final Class	Merged Categories
